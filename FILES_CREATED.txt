@@ -1,0 +1,21 @@
+README.md
+.gitignore
+CITATION.cff
+LICENSE
+FILES_CREATED.txt
+bootstrap_project.sh
+bootstrap_project.ps1
+docs/README.md
+src/julia/README.md
+src/python/README.md
+scripts/prepare_case.sh
+scripts/postprocess.sh
+aims_inputs/examples/case_001/control.in
+aims_inputs/examples/case_001/geometry.in
+data/example/README.md
+figures/README.md
+results/README.md
+
+Project title: Interacción enantioespecífica de aminoácidos en cúmulos quirales de Au, Ag y Cu
+Recommended repository slug: interaccion-enantioespecifica-de-aminoacidos-en-cumulos-quirales-de-au-ag-y-cu
+Git author email: luiyi89ko@gmail.com

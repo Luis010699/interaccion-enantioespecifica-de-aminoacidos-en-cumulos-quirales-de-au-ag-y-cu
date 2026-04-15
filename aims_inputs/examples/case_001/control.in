@@ -1,0 +1,4 @@
+# Placeholder control.in
+# TODO: sustituir por un archivo real de FHI-aims adecuado al sistema.
+xc                pbe
+relativistic      atomic_zora scalar
